@@ -3,7 +3,6 @@ from aart_func import *
 # print("\nThanks for using pAART")
 # print("Copyright (C) 2026, P. Ruales, A. Cardenas-Avendano & D. Gates\n")
 
-
 # Distance to the BH in meters (default: M87)
 #dBH=6
 dBH=5.214795112e23  
@@ -22,13 +21,13 @@ radonfile=0
 #If equal to 1, the sizes of the grids will be equal and an image can be computed
 #by summing the contributions    
 p_image=1
-limits=15
+limits=13
 #Resolution for the n=0 image [M]
-dx0=0.05
+dx0=0.01
 #Resolution for the n=1 image [M]
-dx1=0.05
+dx1=1
 #Resolution for the n=2 image [M]
-dx2=0.05
+dx2=1
 
 # Image treatment 
 fudge=1.5 #Fudge factor (For n>0)

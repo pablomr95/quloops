@@ -3,24 +3,6 @@ from aart_func import *
 # print("\nThanks for using pAART")
 # print("Copyright (C) 2026, P. Ruales, A. Cardenas-Avendano & D. Gates\n")
 
-# Number of turns for the trajectory calculation
-
-N_turns = 3
-
-# Underlying shadow (Q&U shift)
-
-#Yfantis no cooling, default field, non-keplerian / keplerian
-# Q_shadow = -0.02
-# U_shadow = -0.15
-
-Q_shadow = 0.0
-U_shadow = 0.0
-
-#Wielgus' shadow
-
-# Q_shadow = 0.045
-# U_shadow = -0.16
-
 # Distance to the BH in meters (default: M87)
 #dBH=6
 dBH=5.214795112e23  
@@ -39,13 +21,13 @@ radonfile=0
 #If equal to 1, the sizes of the grids will be equal and an image can be computed
 #by summing the contributions    
 p_image=1
-limits=15
+limits=13
 #Resolution for the n=0 image [M]
 dx0=0.01
 #Resolution for the n=1 image [M]
-dx1=0.01
+dx1=1
 #Resolution for the n=2 image [M]
-dx2=0.01
+dx2=1
 
 # Image treatment 
 fudge=1.5 #Fudge factor (For n>0)

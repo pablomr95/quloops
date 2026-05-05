@@ -22,7 +22,7 @@ i_case=20
 #Sub-Kepleniarity param
 sub_kep=1.0
 #Radial velocity param
-betar=0.98
+betar=0.9
 #Angular velocity param
 betaphi=0.98
 
@@ -33,7 +33,6 @@ phi_initial = 0
 #The power of the redshift factor
 gfactor=2
 
-
 # Underlying shadow (Q&U shift)
 
 Q_shadow = 0.0
@@ -41,7 +40,7 @@ U_shadow = 0.0
 
 #Number of turns for the trajectory calculation
 
-N_turns = 3
+N_turns = 10
 
 #Maximum time for the trajectory calculation
 
