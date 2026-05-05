@@ -70,7 +70,7 @@ Some users have experienced an issue with <em>imageio.v2</em>, as it is not foun
 
 <em>*Thanks to @prestonyun for suggesting this simplification.</em> 
 
-## How to run AART and calculate QU loops##
+## How to run AART and calculate QU loops ##
 
 ### As a python package:
 
