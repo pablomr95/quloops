@@ -8,7 +8,7 @@
 
 AART is a numerical framework that exploits the integrability properties of the Kerr spacetime to compute high-resolution black hole images and their visibility amplitude on long interferometric baselines. It implements a non-uniform adaptive grid on the image plane suitable to study black hole photon rings (narrow ring-shaped features predicted by general relativity but not yet observed). 
 
-The code, described in detail in Ref. [2], implements all the relevant equations required to compute the appearance of equatorial sources on the (far) observer's screen. We refer the Reader to Refs. [3-5] for the derivations and further details. Through the code, the equations are mentioned as Pi Eq. N, which means Eq. N in Ref. [i]. 
+The code, described in detail in Ref. [2], implements all the relevant equations required to compute the appearance of equatorial sources on the (far) observer's screen. We refer the Reader to Refs. [3-5] for the derivations and further details. Through the code, the equations are mentioned as Pi Eq. N, which means Eq. N in Ref. [2]. 
 
 The use of AART in scientific publications must be properly acknowledged. Please cite:
 
