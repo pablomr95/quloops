@@ -1,6 +1,6 @@
 from aart_func import *
 
-print("\nThanks for using pAART")
+print("\nThank you for using pAART")
 print("Copyright (C) 2026, P. Ruales, A. Cardenas-Avendano, D. Gates\n")
 
 #--------------------------------------#
