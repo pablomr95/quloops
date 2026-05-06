@@ -1,5 +1,9 @@
 [![2211.07469](https://img.shields.io/badge/arXiv-2211.07469-b31b1b.svg)](https://arxiv.org/abs/2211.07469) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iAART/aart/License.txt) [![GitHub repo stars](https://img.shields.io/github/stars/iAART/aart?style=social)](https://github.com/iAART/aart)
 
+# mAART #
+
+This repository is a version of AART (https://github.com/iAART/aart), modified to calculate the Stokes Q and U parameters along the trajectory that an orbiting emitter takes within the disk. It is ready to calculate and visualize the linear polarization values in the observer's screen. Below is an excerpt from AART's README file.
+
 # Adaptive Analytical Ray Tracing (AART) #
 
 AART is a numerical framework that exploits the integrability properties of the Kerr spacetime to compute high-resolution black hole images and their visibility amplitude on long interferometric baselines. It implements a non-uniform adaptive grid on the image plane suitable to study black hole photon rings (narrow ring-shaped features predicted by general relativity but not yet observed). 
