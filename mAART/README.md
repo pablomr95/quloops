@@ -2,7 +2,7 @@
 
 # mAART #
 
-This repository is a version of AART (https://github.com/iAART/aart), modified to calculate the Stokes Q and U parameters along the trajectory that an orbiting emitter takes within the disk in the equatorial plane. It is ready to calculate and visualize the linear polarization values in the observer's screen. Below is an excerpt from AART's README file.
+"mAART" is a version of AART (https://github.com/iAART/aart), modified to calculate the Stokes Q and U parameters along the trajectory that an orbiting emitter takes within the disk in the equatorial plane. It is ready to calculate and visualize the linear polarization values in the observer's screen. Below is an excerpt from AART's README file.
 
 # Adaptive Analytical Ray Tracing (AART) #
 
