@@ -17,7 +17,7 @@ Cardenas-Avendano, A., Lupsasca, A. & Zhu, H. "Adaptive Analytical Ray Tracing o
 
 and
 
-P. Ruales, D. E. A. Gates, and A. Cárdenas-Avendaño. Polarization signatures of inspiraling hotspots around Kerr Black Holes. Phys. Rev. D (Accepted May, 2026). [arXiv:2602.09102] (https://arxiv.org/abs/2602.09102)
+P. Ruales, D. E. A. Gates, and A. Cárdenas-Avendaño. Polarization signatures of inspiraling hotspots around Kerr Black Holes. Phys. Rev. D (Accepted: May, 2026). [arXiv:2602.09102] (https://arxiv.org/abs/2602.09102)
 _______
 
 We also request that AART modifications or extensions leading to a scientific publication be made public as free software. 
