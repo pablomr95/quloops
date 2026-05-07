@@ -72,11 +72,11 @@ Some users have experienced an issue with <em>imageio.v2</em>, as it is not foun
 
 ### As a python package:
 
-Simply [pip](https://pypi.org/project/aart/) install it like this:
+Simply pip install it like this:
 
 <code> pip install aart </code>
 
-Then follow the notebook: 
+Then follow the notebook ([jupyter](https://jupyter.org/install) needed): 
 
 <em>Example_Notebook_InspiralingHotspot.ipynb</em>
 
