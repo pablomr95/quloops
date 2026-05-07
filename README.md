@@ -85,7 +85,7 @@ To change the paramaters modify the file and <em>paramsQU.py</em>.
 
 #### Lensing Bands: 
 
-The lensing bands are computed by simply running
+The lensing bands are computed by running
 
   <code> python lensingbands.py </code>
   
